@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I’m Willow</h1>
 <p align="center">
   <a href="https://github.com/WillowWLJPearl?tab=followers">
     <img src="https://img.shields.io/github/followers/WillowWLJPearl?style=social">
