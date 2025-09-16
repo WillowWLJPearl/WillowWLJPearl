@@ -1,5 +1,3 @@
-# Hi, I’m ME
-[![Followers](https://img.shields.io/github/followers/WillowWLJPearl?style=social)](https://github.com/WillowWLJPearl?tab=followers)
 [![Stars](https://img.shields.io/github/stars/WillowWLJPearl?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/WillowWLJPearl?tab=repositories)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillowWLJPearl&show_icons=true&rank_icon=github&hide_border=true)
