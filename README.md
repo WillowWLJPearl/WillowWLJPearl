@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://github.com/WillowWLJPearl?tab=followers">
-    <img src="https://img.shields.io/github/followers/WillowWLJPearl?style=social">
-  </a>
   <a href="https://github.com/WillowWLJPearl?tab=repositories">
     <img src="https://img.shields.io/github/stars/WillowWLJPearl?affiliations=OWNER%2CCOLLABORATOR&style=social">
   </a>
