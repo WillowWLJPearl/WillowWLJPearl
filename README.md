@@ -17,3 +17,4 @@ Night-owl coder doing Kotlin/Java + JS, Minecraft modding, and game prototypes.
 
 ### Links
 - CurseForge: https://www.curseforge.com/members/abitofsomething/projects
+- Modrinth: https://modrinth.com/user/WillowPrl
